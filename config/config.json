@@ -1,0 +1,11 @@
+{
+  "url": "http://localhost",
+  "api_version": "/v1",
+  "port": 8000,
+  "mongodb": "mongodb://localhost:27017/group6",
+  "environments" : {
+    "prod": {
+      "mongodb": "mongodb://localhost:27017/group6"
+    }
+  }
+}
